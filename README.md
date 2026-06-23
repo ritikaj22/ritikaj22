@@ -35,41 +35,7 @@ My work combines:
 I enjoy transforming ideas into production-ready applications that are scalable, maintainable, and user-focused.
 
 ---
-## Currently
 
-- 🎓 B.Tech CSE with Honors in Web Development @ RCOEM Nagpur — CGPA 9.02 — graduating 2027
-- ☁️ Building cloud-native applications, CI/CD pipelines, and scalable backend systems
-- 🚀 Seeking Software Engineering, Backend Development, and Cloud/DevOps opportunities
-
----
-
-## Tech Stack
-
-### Languages
-
-Java • JavaScript • Python • SQL • C++ • C
-
-### Backend
-
-Spring Boot • Node.js • Express.js • REST APIs • JWT Authentication
-
-### Frontend
-
-React.js • React Native • Redux • HTML • CSS
-
-### Databases
-
-MongoDB • MySQL • PostgreSQL
-
-### Cloud & DevOps
-
-AWS EC2 • Docker • Jenkins • GitHub Actions • CI/CD
-
-### Tools
-
-Git • GitHub • Postman • Android Studio
-
----
 
 ## Featured Projects
 
@@ -83,6 +49,22 @@ Git • GitHub • Postman • Android Studio
 | Store Billing System | Inventory, billing, and reporting solution developed for NGO operations and sales tracking. | React • Node.js • MongoDB |
 ---
 
+
+
+## Tech Stack
+### Languages 
+Java • JavaScript • Python • SQL • C++ • C
+### Backend
+Spring Boot • Node.js • Express.js • REST APIs • JWT Authentication
+### Frontend
+React.js • React Native • Redux • HTML • CSS
+### Databases
+MongoDB • MySQL • PostgreSQL
+### Cloud & DevOps
+AWS EC2 • Docker • Jenkins • GitHub Actions • CI/CD
+### Tools 
+- Git • GitHub • Postman • Android Studio
+---
 ## AWS & DevOps
 
 Designed and implemented a cloud-based CI/CD workflow for deploying applications with minimal manual intervention.
@@ -116,7 +98,13 @@ AWS EC2 Deployment
 ```
 
 ---
+## Currently
 
+- 🎓 B.Tech CSE with Honors in Web Development @ RCOEM Nagpur — CGPA 9.02 — graduating 2027
+- ☁️ Building cloud-native applications, CI/CD pipelines, and scalable backend systems
+- 🚀 Seeking Software Engineering, Backend Development, and Cloud/DevOps opportunities
+
+---
 ## Coding Profiles
 
 - ⭐ CodeChef 1-Star Coder
